@@ -16,6 +16,6 @@ javac -d out Client.java
 
 ## Execução
 ````bash
-    java -cp out Server
-    java -cp out Client
+java -cp out Server
+java -cp out Client
 ````
