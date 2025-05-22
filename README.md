@@ -12,3 +12,10 @@ Um sistema de chat usando a arquitetura cliente-servidor por meio de sockets.
 ```bash
 javac Server.java
 javac Client.java
+```
+
+## Execução
+````bash
+    java Server
+    java Client
+````
